@@ -1,0 +1,8 @@
+C:\Users\reduardoelias\source\repos\Solution2\Dominio\bin\Debug\netstandard1.4\Dominio.deps.json
+C:\Users\reduardoelias\source\repos\Solution2\Dominio\bin\Debug\netstandard1.4\Dominio.dll
+C:\Users\reduardoelias\source\repos\Solution2\Dominio\bin\Debug\netstandard1.4\Dominio.pdb
+C:\Users\reduardoelias\source\repos\Solution2\Dominio\obj\Debug\netstandard1.4\Dominio.csprojAssemblyReference.cache
+C:\Users\reduardoelias\source\repos\Solution2\Dominio\obj\Debug\netstandard1.4\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\reduardoelias\source\repos\Solution2\Dominio\obj\Debug\netstandard1.4\Dominio.AssemblyInfo.cs
+C:\Users\reduardoelias\source\repos\Solution2\Dominio\obj\Debug\netstandard1.4\Dominio.dll
+C:\Users\reduardoelias\source\repos\Solution2\Dominio\obj\Debug\netstandard1.4\Dominio.pdb

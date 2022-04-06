@@ -1,0 +1,10 @@
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\obj\Debug\Presentacion.Login.resources
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\reduardoelias\source\repos\Solution2\Presentacion\obj\Debug\Presentacion.pdb

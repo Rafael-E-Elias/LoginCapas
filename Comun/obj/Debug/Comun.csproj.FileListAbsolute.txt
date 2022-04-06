@@ -1,0 +1,5 @@
+C:\Users\reduardoelias\source\repos\Solution2\Comun\obj\Debug\Comun.csproj.CoreCompileInputs.cache
+C:\Users\reduardoelias\source\repos\Solution2\Comun\bin\Debug\Comun.dll
+C:\Users\reduardoelias\source\repos\Solution2\Comun\bin\Debug\Comun.pdb
+C:\Users\reduardoelias\source\repos\Solution2\Comun\obj\Debug\Comun.dll
+C:\Users\reduardoelias\source\repos\Solution2\Comun\obj\Debug\Comun.pdb

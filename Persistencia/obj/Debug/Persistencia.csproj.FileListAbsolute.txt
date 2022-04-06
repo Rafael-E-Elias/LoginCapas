@@ -1,0 +1,9 @@
+C:\Users\reduardoelias\source\repos\Solution2\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\reduardoelias\source\repos\Solution2\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\reduardoelias\source\repos\Solution2\Persistencia\obj\Debug\Persistencia.csprojAssemblyReference.cache
+C:\Users\reduardoelias\source\repos\Solution2\Persistencia\obj\Debug\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\reduardoelias\source\repos\Solution2\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\reduardoelias\source\repos\Solution2\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\reduardoelias\source\repos\Solution2\Persistencia\bin\Debug\Comun.dll
+C:\Users\reduardoelias\source\repos\Solution2\Persistencia\bin\Debug\Comun.pdb
+C:\Users\reduardoelias\source\repos\Solution2\Persistencia\obj\Debug\Persistencia.csproj.CopyComplete
